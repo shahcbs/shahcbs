@@ -51,6 +51,5 @@ Hey there! I'm a Design Systems Designer in the entertainment industry, and I lo
 ## Contact
 
 - Email: hello@shahali.design
-- GitHub: [Github shahcbs](https://github.com/shahcbs)
-- LinkedIn: [Linkedin shahnyc](https://www.linkedin.com/in/shahnyc/)
+- LinkedIn: [linkedin.com/shahnyc](https://www.linkedin.com/in/shahnyc/)
 

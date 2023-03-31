@@ -2,7 +2,7 @@
 
 ## Summary
 
-I am a Design Systems Designer with experience in building web applications using modern web technologies. I am skilled in Design Token, JavaScript, React, Node.js, and have experience with Git and GitHub.
+Hey there! I'm a Design Systems Designer in the entertainment industry, and I love creating awesome, consistent design molecules for entertainment streaming services. I know my way around multi-platform technologies and I am about making the audience experience as amazing as possible!
 
 ## Education
 

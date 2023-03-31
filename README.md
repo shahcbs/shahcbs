@@ -23,7 +23,7 @@ Hey there! I'm a Design Systems Designer in the entertainment industry, and I lo
 
 - Worked on a team to design components for a multi-platform application.
 - Used Git and GitHub for version control and collaboration with other developers.
-- Worked closely with developer to implement design tokens to components in React/iOS/Android synced with GitHub.
+- Worked closely with developer to implement design tokens to components in React/iOS/Android.
 
 ### UX Designer, PointClickCare, 2021-2022
 
@@ -40,7 +40,7 @@ Hey there! I'm a Design Systems Designer in the entertainment industry, and I lo
 
 ### Figma Tokens Sync with GitHub
 
-- Developed a project to enable syncing design tokens from Figma to GitHub, so we could easily use them in our web projects.
+- Developed a source of truth by enabling syncing design tokens from Figma to GitHub, so we could easily use them in our web projects.
 - Built a workflow to export design tokens as JSON files and push them to GitHub, and a GitHub Action to automatically generate CSS variables.
 
 ## Interests

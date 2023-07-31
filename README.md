@@ -46,7 +46,7 @@ Hey there! I'm a Design Systems Designer in the entertainment industry, and I lo
 ## Interests
 
 - Formula 1
-- PC Gaming
+- Fútbol
 
 ## Contact
 
